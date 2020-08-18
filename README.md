@@ -1,6 +1,4 @@
-# workDayScheduler
-
-Work Day Planner
+# Work Day Planner
 
 Link to the working application: https://bgm6.github.io/workDayScheduler/index.html
 
